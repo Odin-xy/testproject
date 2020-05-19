@@ -1,0 +1,7 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -1,2 +1,3 @@
+ # testproject
+-first change
+\ No newline at end of file
++first change
++second change
