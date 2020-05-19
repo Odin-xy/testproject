@@ -1,4 +1,7 @@
 # testproject
 first change
 second change
+<<<<<<< HEAD
 third change
+=======
+>>>>>>> 0fb08e361781471154229d877c241e442d4fbdaa
